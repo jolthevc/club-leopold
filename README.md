@@ -2,10 +2,15 @@
 
 **Premium heritage-inspired clothing & leisure.** Club Leopold is an emerging clothing and lifestyle brand featuring **Leo**, an original, personified basset hound with understated humor and excellent taste.
 
+The brand's guiding idea is **A Life With Character**: good taste and good humor, a beautiful everyday life, and an effortless sense of self. Its founding ethos, purpose, mission and creative consequences are codified in **[BRAND.md](BRAND.md)**.
+
 This is the **small, durable source of truth** for the brand. A future AI collaborator should be able to read these five documents and understand what is approved, what has changed, and what's next.
 
+## For every AI agent
+**Before proposing brand identity, apparel designs, website copy, campaigns, lifestyle imagery or social posts, read [BRAND.md](BRAND.md) in full.** The ethos is a creative decision-making framework, not optional decoration. See [AGENTS.md](AGENTS.md) for cross-agent instructions and [CLAUDE.md](CLAUDE.md) for Claude's entry point.
+
 ## Read in order
-1. [BRAND.md](BRAND.md): Brand personality, audience, colors, typography and visual system.
+1. **[BRAND.md](BRAND.md): The approved ethos, purpose, mission, vision, customer aspiration, brand voice, visual system and non-negotiable creative principles.**
 2. [LEO.md](LEO.md): **Locked Leo v1** anatomy, expression, wardrobe, tote and head emblem.
 3. [PRODUCTS.md](PRODUCTS.md): The **approved Core Tee and Story Tee**, plus planned crewneck and hoodie.
 4. [PLAN.md](PLAN.md): Launch, POD, social, economics, next decisions.
